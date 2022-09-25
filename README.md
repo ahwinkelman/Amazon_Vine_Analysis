@@ -9,6 +9,15 @@ The purpose of this analysis was to ETL (extract, transform, and load) big data 
 : Using bulleted lists and images of DataFrames as support, address the following questions:
 
 How many Vine reviews and non-Vine reviews were there?
+
+![image](https://user-images.githubusercontent.com/107078763/192163648-92b815e5-96e0-49c1-82df-904448e7f24c.png)
+
+There were 1,080 amount of Vine reviews (Paid).
+
+There were 49,673 amount of non Vine Reviews (unpaid).
+
+There were 50,753 amount of total reviews. 
+
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
